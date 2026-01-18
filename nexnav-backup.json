@@ -1,0 +1,187 @@
+{
+  "version": 1,
+  "exportedAt": "2026-01-18T05:24:13.259Z",
+  "sites": [
+    {
+      "id": "1768661292421",
+      "name": "闲鱼",
+      "url": "https://www.goofish.com/",
+      "category": "tools",
+      "icon": "https://www.goofish.com/favicon.ico",
+      "description": "闲鱼，中国领先的闲置二手交易平台，趣味生活社区，从最初的C2C交易，到用户在这里分享技能、兴趣与经验，从物品到服务、从交易到交流。",
+      "createdAt": "2026-01-17T14:48:12.421Z",
+      "updatedAt": "2026-01-18T03:47:50.267Z",
+      "starred": true
+    },
+    {
+      "name": "百度一下，你就知道",
+      "url": "https://baidu.com",
+      "category": "tools",
+      "icon": "https://www.baidu.com/favicon.ico",
+      "description": "全球领先的中文搜索引擎、致力于让网民更便捷地获取信息，找到所求。百度超过千亿的中文网页数据库，可以瞬间找到相关的搜索结果。",
+      "id": "1768706285732",
+      "createdAt": "2026-01-18T03:18:05.732Z",
+      "starred": true,
+      "updatedAt": "2026-01-18T03:35:55.992Z"
+    },
+    {
+      "name": "GitHub",
+      "url": "https://GITHUB.COM",
+      "category": "tools",
+      "icon": "https://github.githubassets.com/favicons/favicon",
+      "description": "Join the world's most widely adopted, AI-powered developer platform where millions of developers, businesses, and the largest open source community build software that advances humanity.",
+      "id": "1768707898297",
+      "createdAt": "2026-01-18T03:44:58.297Z",
+      "updatedAt": "2026-01-18T03:47:57.989Z"
+    },
+    {
+      "name": "腾讯文档",
+      "url": "https://docs.qq.com",
+      "category": "tools",
+      "icon": "https://docs.qq.com/favicon.ico",
+      "description": "",
+      "id": "1768707918914",
+      "createdAt": "2026-01-18T03:45:18.914Z",
+      "updatedAt": "2026-01-18T03:48:16.423Z"
+    },
+    {
+      "name": "腾讯视频",
+      "url": "https://v.qq.com",
+      "category": "uncategorized",
+      "icon": "https://v.qq.com/favicon.ico",
+      "description": "腾讯视频致力于打造中国领先的在线视频媒体平台，以丰富的内容、极致的观看体验、便捷的登录方式、多平台无缝应用体验以及快捷分享的产品特性，主要满足用户在线观看视频的需求。",
+      "id": "1768707979567",
+      "createdAt": "2026-01-18T03:46:19.567Z",
+      "updatedAt": "2026-01-18T05:11:15.952Z"
+    },
+    {
+      "name": "QQ音乐",
+      "url": "https://y.qq.com",
+      "category": "tools",
+      "icon": "https://y.qq.com/favicon.ico?max_age=2592000",
+      "description": "QQ音乐是腾讯公司推出的一款网络音乐服务产品，海量音乐在线试听、新歌热歌在线首发、歌词翻译、手机铃声下载、高品质无损音乐试听、海量无损曲库、正版音乐下载、空间背景音乐设置、MV观看等，是互联网音乐播放和下载的优选。",
+      "id": "1768707999645",
+      "createdAt": "2026-01-18T03:46:39.645Z"
+    },
+    {
+      "name": "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili",
+      "url": "https://bilibili.com",
+      "category": "uncategorized",
+      "icon": "https://i0.hdslb.com/bfs/static/jinkela/long/images/favicon.ico",
+      "description": "哔哩哔哩（bilibili.com)是国内知名的视频弹幕网站，这里有及时的动漫新番，活跃的ACG氛围，有创意的Up主。大家可以在这里找到许多欢乐。",
+      "id": "1768710774745",
+      "createdAt": "2026-01-18T04:32:54.745Z",
+      "updatedAt": "2026-01-18T05:11:11.474Z"
+    },
+    {
+      "id": "1768720000001",
+      "name": "ChatGPT",
+      "url": "https://chat.openai.com",
+      "category": "文生文",
+      "icon": "https://chat.openai.com/favicon.ico",
+      "description": "OpenAI开发的革命性人工智能对话机器人，支持多模态交互。",
+      "createdAt": "2026-01-18T06:00:00.000Z",
+      "starred": true
+    },
+    {
+      "id": "1768720000002",
+      "name": "Claude",
+      "url": "https://claude.ai",
+      "category": "文生文",
+      "icon": "https://claude.ai/favicon.ico",
+      "description": "Anthropic推出的安全、可靠的AI助手，擅长长文本处理和逻辑推理。",
+      "createdAt": "2026-01-18T06:00:00.000Z"
+    },
+    {
+      "id": "1768720000003",
+      "name": "Gemini",
+      "url": "https://gemini.google.com",
+      "category": "文生文",
+      "icon": "https://www.gstatic.com/lamda/images/gemini_favicon_f069958c85030456e93de685481c559f160ea06b.png",
+      "description": "Google最强大、通用的AI模型，深度集成Google生态。",
+      "createdAt": "2026-01-18T06:00:00.000Z"
+    },
+    {
+      "id": "1768720000004",
+      "name": "DeepSeek (深度求索)",
+      "url": "https://chat.deepseek.com",
+      "category": "文生文",
+      "icon": "https://chat.deepseek.com/favicon.ico",
+      "description": "国产开源最强模型之一，编码与推理能力卓越。",
+      "createdAt": "2026-01-18T06:00:00.000Z",
+      "starred": true
+    },
+    {
+      "id": "1768720000005",
+      "name": "Kimi 智能助手",
+      "url": "https://kimi.moonshot.cn",
+      "category": "文生文",
+      "icon": "https://kimi.moonshot.cn/favicon.ico",
+      "description": "月之暗面科技出品，支持20万字超长无损上下文。",
+      "createdAt": "2026-01-18T06:00:00.000Z"
+    },
+    {
+      "id": "1768720000006",
+      "name": "Midjourney",
+      "url": "https://www.midjourney.com",
+      "category": "文生图",
+      "icon": "https://www.midjourney.com/favicon.ico",
+      "description": "目前公认效果最好的AI绘画工具，需通过Discord使用。",
+      "createdAt": "2026-01-18T06:00:00.000Z",
+      "starred": true
+    },
+    {
+      "id": "1768720000007",
+      "name": "Stable Diffusion",
+      "url": "https://stability.ai",
+      "category": "文生图",
+      "icon": "https://stability.ai/favicon.ico",
+      "description": "Stability AI推出的开源图像生成模型，生态丰富。",
+      "createdAt": "2026-01-18T06:00:00.000Z"
+    },
+    {
+      "id": "1768720000008",
+      "name": "Leonardo.ai",
+      "url": "https://leonardo.ai",
+      "category": "文生图",
+      "icon": "https://leonardo.ai/favicon.ico",
+      "description": "专注于游戏资产生成的AI绘图平台，界面友好，模型质量高。",
+      "createdAt": "2026-01-18T06:00:00.000Z"
+    },
+    {
+      "id": "1768720000009",
+      "name": "Runway",
+      "url": "https://runwayml.com",
+      "category": "文生视频",
+      "icon": "https://runwayml.com/favicon.ico",
+      "description": "专业的AI视频生成与编辑工具，Gen-2/Gen-3模型业界领先。",
+      "createdAt": "2026-01-18T06:00:00.000Z",
+      "starred": true
+    },
+    {
+      "id": "1768720000010",
+      "name": "Luma Dream Machine",
+      "url": "https://lumalabs.ai/dream-machine",
+      "category": "文生视频",
+      "icon": "https://lumalabs.ai/favicon.ico",
+      "description": "Luma AI推出的高质量视频生成模型，生成速度快，物理规律模拟好。",
+      "createdAt": "2026-01-18T06:00:00.000Z"
+    },
+    {
+      "id": "1768720000013",
+      "name": "Suno",
+      "url": "https://suno.com",
+      "category": "文生音频",
+      "icon": "https://suno.com/favicon.ico",
+      "description": "最强的AI音乐生成工具，能生成包含人声的完整歌曲。",
+      "createdAt": "2026-01-18T06:00:00.000Z"
+    }
+  ],
+  "categories": [
+    "文生文",
+    "文生图",
+    "文生视频",
+    "文生音频",
+    "tools"
+  ]
+}
